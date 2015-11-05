@@ -1,2 +1,2 @@
-The cars alarm is going off!!! All of the zombies start to swarm you. All you can do is get in the car and try to hold the door so nothing gets in. The zombies overmatch your strength.  
+#The cars alarm is going off!!! All of the zombies start to swarm you. All you can do is get in the car and try to hold the door so nothing gets in. The zombies overmatch your strength.  
 [Try and run?](youre-dead.md)

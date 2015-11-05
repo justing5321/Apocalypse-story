@@ -1,2 +1,2 @@
 #YOU'RE DEAD  
-[Start over](Apocalypse-story)
+[Start over](room.md)
