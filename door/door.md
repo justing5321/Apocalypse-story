@@ -3,4 +3,4 @@
 ---  
 What do you do ?  
 ## [Call your roommate's name](call-roommate.md)  
-## [Go downstairs](go-downstairs.m)
+## [Go downstairs](go-downstairs.md)
